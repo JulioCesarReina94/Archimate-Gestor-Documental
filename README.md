@@ -8,3 +8,5 @@
 Arquitectura software de gestión documental para el proceso de revision de tesis en la especializacion en ingenieria de software de la universidad distrital
 
 ![PUNTO DE VISTA ORGANIZACIONAL](img/Organizacional.jpg)
+
+![PUNTO DE VISTA FUNCIONES DE NEGOCIO](img/Funciones.jpg)
