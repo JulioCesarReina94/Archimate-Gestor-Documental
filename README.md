@@ -13,4 +13,4 @@ Arquitectura software de gestión documental para el proceso de revision de tesi
 
 ### PUNTO DE VISTA ORGANIZACIONAL
 
-![PUNTO DE VISTA FUNCIONES DE NEGOCIO](img/Funciones.jpg)
+![PUNTO DE VISTA FUNCIONES DE NEGOCIO](img/Funciones2.jpg)
