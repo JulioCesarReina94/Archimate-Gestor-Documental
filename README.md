@@ -18,3 +18,7 @@ Arquitectura software de gestión documental para el proceso de revision de tesi
 ### PUNTO DE VISTA DE LOS PROCESOS
 
 ![PUNTO DE VISTA DE LOS PROCESOS](img/Procesos.jpg)
+
+### PUNTO DE VISTA ESTRUCTURA DE APLICACIONES
+
+### PUNTO DE VISTA USO DE APLICACIONES
