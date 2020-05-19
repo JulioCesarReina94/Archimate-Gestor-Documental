@@ -21,8 +21,8 @@ Arquitectura software de gestión documental para el proceso de revision de tesi
 
 ### PUNTO DE VISTA ESTRUCTURA DE APLICACIONES
 
-![PUNTO DE VISTA ESTRUCTURA DE APLICACIONES](img/EstructuraAplicaciones.jpg)
+![PUNTO DE VISTA ESTRUCTURA DE APLICACIONES](img/estructuraaplicaciones.jpg)
 
 ### PUNTO DE VISTA USO DE APLICACIONES
 
-![PUNTO DE VISTA DE LOS PROCESOS](img/UsoAplicaciones.jpg)
+![PUNTO DE VISTA DE LOS PROCESOS](img/usoaplicaciones.jpg)
