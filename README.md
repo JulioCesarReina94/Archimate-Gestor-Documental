@@ -39,9 +39,6 @@ Resumen de puntos de vista anteriores.
 
 ### PUNTO DE VISTA DE MAPEO GENERAL
 
-El punto de vista de Mapeo General se representa a traves de una matriz de tres dimensiones, en donde cada componente a nivel de arquitectura da soporte a los productos en relacion a las funciones de negocio. Esto permite conocer como se llevan los procesos actualmente y como se verian afectados en una posible modificación.
+El punto de vista de Mapeo General se representa a traves de una matriz de tres dimensiones, en donde cada componente a nivel de arquitectura da soporte a los productos en relacion a las funciones de negocio, el eje vertical representa las funciones empresariales; el eje horizontal muestra los productos que estan relacionados con dichas funciones por medio de un rectangulo que cubre una o mas celdas. Esto permite conocer como se llevan los procesos actualmente y como se verian afectados en una posible modificación, este punto de vista permite tener una vision general para los administradores o propietarios de los procesos del sistema, de igual forma permite hacer un analisis de los cambios o encontrar patrones para la asignacion de recursos.
 
-
-
-
-
+![PUNTO DE VISTA DE MAPEO GENERAL](img/MapaGlobal.PNG)
