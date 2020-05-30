@@ -29,6 +29,8 @@ Arquitectura software de gestión documental para el proceso de revision de tesi
 
 ### PUNTO DE VISTA DE USO DE INFRAESTRUCTURA
 
+![PUNTO DE VISTA DE LOS PROCESOS](img/infraestructuras.PNG)
+
 ### PUNTO DE VISTA A NIVEL DE CAPAS
 
 El punto de vista de capas en Archimate a diferencia de otro tipo de diagramas como UML, muestra un panorama general con capas dedicadas y capas de servicio, en donde cada capa dedicada expone una capa de servicio, permitiendo tener una vista interna y externa de la aplicación y de como deberá ser el proyeto, dando así una prespectiva global a todos los involucrados. 
