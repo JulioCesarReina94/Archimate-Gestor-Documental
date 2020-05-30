@@ -35,8 +35,6 @@ El punto de vista de capas en Archimate a diferencia de otro tipo de diagramas c
 
 En la Aplicación de las metodologías agiles como SCRUM este tipo de diagramas de estructura pasan por desapercibido generando problemas de escalabilidad, diseño y decision. A través de este punto de vista se puede tener un medida del impacto de los cambios y del rendimiento de la aplicación al agregar nuevos servicios.
 
-Resumen de puntos de vista anteriores.
-
 ### PUNTO DE VISTA DE MAPEO GENERAL
 
 El punto de vista de Mapeo General se representa a traves de una matriz de tres dimensiones, en donde cada componente a nivel de arquitectura da soporte a los productos en relacion a las funciones de negocio, el eje vertical representa las funciones empresariales; el eje horizontal muestra los productos que estan relacionados con dichas funciones por medio de un rectangulo que cubre una o mas celdas. Esto permite conocer como se llevan los procesos actualmente y como se verian afectados en una posible modificación, este punto de vista permite tener una vision general para los administradores o propietarios de los procesos del sistema, de igual forma permite hacer un analisis de los cambios o encontrar patrones para la asignacion de recursos.
