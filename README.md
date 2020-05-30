@@ -29,7 +29,7 @@ Arquitectura software de gestión documental para el proceso de revision de tesi
 
 ### PUNTO DE VISTA DE USO DE INFRAESTRUCTURA
 
-![PUNTO DE VISTA DE LOS PROCESOS](img/infraestructuras.PNG)
+![PUNTO DE VISTA DE LOS PROCESOS](img/infraestructuras.jpeg)
 
 ### PUNTO DE VISTA A NIVEL DE CAPAS
 
